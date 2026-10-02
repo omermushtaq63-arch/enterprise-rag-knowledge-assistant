@@ -1,3 +1,4 @@
+using Xunit;
 using EnterpriseRag;
 
 public class EmbeddingTests
